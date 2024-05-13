@@ -50,4 +50,3 @@ Before you begin, ensure you have the following installed:
 
 - Real-time messaging using WebSocket.
 - Simple user interface to send and receive messages.
-- Connection management and display of connection status.
