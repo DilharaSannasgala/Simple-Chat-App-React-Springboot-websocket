@@ -18,21 +18,27 @@ Before you begin, ensure you have the following installed:
    cd path/to/backend
 Build and run the Spring Boot application:
 
-mvn clean install
-mvn spring-boot:run
+   ```bash
+   mvn clean install
+   mvn spring-boot:run
+   ```
 
 The backend server will start on http://localhost:8080.
 
 Frontend Setup
 Navigate to the frontend directory:
-
+```bash
 cd path/to/frontend
+```
+
 Install the necessary packages:
-
+```bash
 npm install
+```
 Start the React application:
-
+```bash
 npm start
+```
 The React app will be available at http://localhost:3000.
 
 Features
